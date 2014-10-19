@@ -1,2 +1,7 @@
 SurtazK.github.io
 =================
+
+1. HTML stands for Hyper Text Mark-up Language. It is mainly used to create webpages. It is the structure
+2. CSS is a platform that lets the user style their code, such as in HTML. It is the styling
+3. You can use CSS to style you HTML webpage
+4. A <div> is a division that divides a piece of code on your webpage. In this way, one can assign a style to a whole section of text rather than tediously doing every single line of code. In essence, it groups a group of code together so that one can style the entire group at once.
